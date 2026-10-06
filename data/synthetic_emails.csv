@@ -1,0 +1,13 @@
+id,label,sender,subject,body
+1,SAFE,hr@example.test,Interview schedule confirmation,"Hello Sanjay, your interview is scheduled for Monday at 10:00 AM. Please reply to this message if you need to reschedule."
+2,SAFE,library@example.test,Book renewal successful,"Your library book renewal was completed successfully. No further action is required."
+3,SAFE,finance@example.test,Monthly statement available,"Your sample monthly statement is available in the portal. Sign in through your usual bookmarked website."
+4,SAFE,university.example.test,Course registration reminder,"This is a reminder that course registration closes on Friday. Please use the college portal you normally use."
+5,SAFE,team@example.test,Project meeting agenda,"Hi team, the agenda for tomorrow's project meeting is attached. Please review it before the meeting."
+6,SAFE,service@example.test,Planned maintenance notice,"The sample service will undergo planned maintenance on Saturday from 2 AM to 3 AM."
+7,PHISHING,security@example.test,Urgent account verification required,"URGENT! Your account will be suspended today. Verify your password immediately at https://secure-login.example.test/verify."
+8,PHISHING,billing@example.test,Payment failure final warning,"FINAL WARNING! Your payment failed. Update your account immediately at http://billing-update.example.test/login."
+9,PHISHING,support@example.test,Security code required,"We detected unusual activity. Send your OTP and password to support so we can verify your account."
+10,PHISHING,manager@example.test,Confidential gift card request,"I need this handled immediately and confidentially. Buy gift cards and send me the codes. Do not tell anyone."
+11,PHISHING,admin@example.test,Account expires today,"Your account expires today. Click https://account-verify.example.test/login now or access will be blocked."
+12,PHISHING,notice@example.test,Final warning action required,"FINAL WARNING! Act now to avoid suspension. Confirm your login credentials through the link below."
